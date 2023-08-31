@@ -29,7 +29,6 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
 }
 
 $mail = $session->get_access('email');
-echo "<script>alert('$mail')</script>";
 $login = $session->get_access('login');
 if (empty($mail) or $login == false) {
     $error = $session->get_access('error');
