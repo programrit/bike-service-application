@@ -59,7 +59,3 @@ Follow these steps to set up and run the Mini Bike Service Application on your l
    - Register a new account as a user.
    - Log in using your newly created account.
    - Explore the application, book appointments, and interact with the features.
-
-## Contact
-
-If you have any questions, feel free to contact us at [ramraj291101@gmail.com].
